@@ -1,0 +1,66 @@
+#UpdateTabs {
+    color:#666666;
+    font-family:Verdana;
+    font-size:12px;
+    line-height:14px;
+
+    }
+
+.container {
+margin:0px !important;
+padding:0px !important;
+width:100% !important;
+}
+
+.form {
+    width:100px !important;
+}
+.form2 {
+    
+	height: auto !important;
+	width: auto !important;
+	
+}
+
+ul.dnnAdminTabNav {
+
+height: auto !important;
+
+border-bottom: 1px solid #84c4d8;
+}
+.dnnForm .ui-corner-all{
+
+border-radius: 0px !important;
+}
+ul.dnnAdminTabNav li {
+
+padding-left: 7px !important;
+}
+.dnnForm .ui-tabs .ui-tabs-nav li a,
+ul.dnnAdminTabNav li a {
+ 
+    text-decoration: none;
+      font-size:11px;
+      line-height:12px;
+    color: #004192;
+    text-decoration: none;
+    display: block;
+    margin: 0;
+  
+    background: #dcedf4;
+    font-family: Arial, Helvetica, sans-serif;
+
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-color:#84c4d8;
+}
+
+
+.dnnFormError {
+    color: #fff !important;
+    background: url(../../images/errorbg.gif) no-repeat left center;
+    text-shadow: 0px 1px 1px #000;
+    padding: 5px 20px;
+}
